@@ -1,6 +1,6 @@
 # NLP_Project
 
-Our project is to classify articles into different predefined categories (b : business , t : science and technology , e : entertainment , m : health It’s based on supervised learning.
+Our project is to classify articles into different predefined categories (b : business , t : science and technology , e : entertainment , m : health) It’s based on supervised learning.
 
 • The dataset consists of Headlines and categories for 400k news items scraped from the web in 2014. 
 
