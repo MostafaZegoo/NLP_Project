@@ -41,7 +41,7 @@ Support vector machine is a representation of the training data as points in spa
 
 • we picked random samples of dataset with about 100 shuffled record • changing maximum number of training document to 20 ones 
 
-                                ---------------------------------
+                                
 
 # Experiment 2
 
@@ -54,7 +54,7 @@ Neighbors based classification is a type of lazy learning as it does not attempt
 
 • we picked random samples of dataset with about 100 shuffled record • changing maximum number of training document to 20 ones gives accuracy of 0.65. • increasing test size increases the accuracy to 0.74 • with k=13 • with k=3 
 
-                                    ------------------------------------
+                                    
 
 # Experiment 3
 
@@ -67,8 +67,8 @@ It's same as KNN but the only main different is that k=1
 
 • we picked random samples of dataset with about 100 shuffled record • changing maximum number of training document to 20 ones • increasing test size • with test size=0.1 • with test size =0.33 
 
-                                                     --------------------------------
-
+                                                 
+                                                 
 # Experiment 4
 
 2.4 Decision tree
@@ -82,7 +82,7 @@ It's same as KNN but the only main different is that k=1
 
 • Trying to run with large dataset uci-news-aggregator. • we picked random samples of dataset with about 100 shuffled record • changing maximum number of training document to 20 ones. • Increasing test size 
 
-                                                      ----------------------------------
+                                                     
 
 # Experiment 5
 
@@ -95,7 +95,7 @@ Reduction in over-fitting and random forest classifier is more accurate than dec
 
 • With test size=0.1 • With test size=0.33 
 
-                                                    ---------------------------------------
+                                                    
 
 # Experiment 6
 
@@ -108,7 +108,7 @@ Logistic regression is designed for this purpose (classification), and is most u
 
 • we picked random samples of dataset with about 100 shuffled record • changing maximum number of training document to 20 ones • increasing test size • trying to apply with large dataset uci-news-aggregator.
 
-                                                    --------------------------------------
+                                                    
 
 # Experiment 7
 
@@ -121,7 +121,7 @@ Linear regression is a very simple approach for supervised learning. Though it m
 
 • having a test size=0.33 • reducing size of documents which re used to extract features (max_df=50) • when max_df=2000 
 
-                                                      ------------------------------------
+                                                     
 
 # Experiment 8
 
@@ -136,8 +136,8 @@ Disadvantages: Requires a number of hyper-parameters and it is sensitive to feat
 
 Experiment Test size=0.33 or 0.2 Exchange hinge loss function with mse 
 
-                                                --------------------------------------
-
+                                                
+                                                
 # Experiment 9
 
 2.9 Multi nominal naive bayes
@@ -148,7 +148,7 @@ multinomial is a classification method that generalizes navie bayes to multiclas
 
 test size=0.1 test size=0.33 
 
-                                                        ----------------------------------
+                                                        
 
 # Experiment 10
 
